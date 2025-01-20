@@ -40,7 +40,7 @@ lib/
 This directory screens all the screen of the application together in one place. A separate file is created for each type as shown in example below:
 
 ```
-screens/
+view/
 |- CreateTodoPage.dart
 |- FavoritePage.dart
 |- HomePage.dart
@@ -92,10 +92,9 @@ class MyApp extends StatelessWidget {
 https://github.com/user-attachments/assets/8f3ddbe5-d85b-4470-8526-7738f939f2e4
 
 
-
-![Screenshot_20250120_214133](https://github.com/user-attachments/assets/88dcb5db-03b9-4d55-9f3b-698340fa4c14)
-![Screenshot_20250120_214156](https://github.com/user-attachments/assets/77f3f9ff-c38c-4e96-b692-9bc2caa388aa)
-![Screenshot_20250120_214215](https://github.com/user-attachments/assets/6464568a-74ed-460c-a6ee-518cc9a9f304)
+![Screenshot_20250120_214133-2](https://github.com/user-attachments/assets/c0779455-0198-4124-b469-5724eba362e5)
+![Screenshot_20250120_214156-2](https://github.com/user-attachments/assets/a2c9f41d-7197-4fa0-8502-2f7efa9d1fb0)
+![Screenshot_20250120_214215-2](https://github.com/user-attachments/assets/274c0611-bae1-4cc2-821e-e40fc9d3bc7a)
 
 
 
